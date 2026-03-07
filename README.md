@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Machine Learning , Full stack<br><br>- 🌱 I’m currently learning Web 3.O<br><br>- 💬 Ask me about full stack  development , machine learning</p>
+<p align="left">🔭 I’m currently working on Machine Learning , Full stack<br><br>- 🌱 I’m currently learning Web 3.O<br><br>- 💬 Ask me about full stack development , machine learning</p>
 
 ###
 
