@@ -3,11 +3,11 @@
 ###
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
+<h3 align="center">I am a Full Stack Software Developer 👩‍💻✍</h3>
 
 ###
 
-<p align="left">🔭 I’m currently working on Machine Learning , Full stack<br><br>- 🌱 I’m currently learning Web 3.O<br><br>- 💬 Ask me about web  development , machine learning</p>
+<p align="left">🔭 I’m currently working on Machine Learning , Full stack<br><br>- 🌱 I’m currently learning Web 3.O<br><br>- 💬 Ask me about full stack  development , machine learning</p>
 
 ###
 
