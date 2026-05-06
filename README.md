@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI/ML Engineer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Machine+Learning+Projects;Data+Driven+Solutions;Spring+Boot+%7C+React+%7C+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Machine+Learning+Projects;Data+Engineering+Pipelines;Spring+Boot+%7C+React+%7C+AI" />
 </p>
 
 ---
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/React-18-blue?logo=react"/>
   <img src="https://img.shields.io/badge/PostgreSQL-18.3-blue?logo=postgresql"/>
   <img src="https://img.shields.io/badge/Tomcat-10.1-yellow?logo=apachetomcat"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Machine_Learning-AI-red"/>
 </p>
 
@@ -28,44 +29,45 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxa
 ## 👨‍💻 About Me
 
 - 🔭 Focused on **Backend Engineering + Machine Learning Systems**
-- 🌱 Exploring **LLMs, AI Agents & Scalable Architectures**
-- 🧠 Strong in **Java, Spring Boot, Data Pipelines, ML Models**
-- 💬 Ask me about **Backend, ML, APIs, System Design**
+- 🌱 Exploring **LLMs, AI Agents & Data Engineering**
+- 🧠 Strong in **Java, Spring Boot, APIs, ML Models**
+- ☁️ Working with **AWS Data Services & Pipelines**
+- 💬 Ask me about **Backend, ML, System Design**
 - ⚡ I build projects that solve **real-world problems**
 
 ---
 
-## 🌟 Featured Projects (Best Work)
+## 🌟 Featured Projects
 
 ### 📚 ShelfSync – Library Management System
-> 🚀 **Full Stack Enterprise Application**
+> 🚀 Full Stack Enterprise Application  
 
 - Built using **Spring Boot + React.js**
-- Features: Book Cataloging, Member Management, Borrow/Return System
-- REST API based scalable backend
-- Clean architecture & modular design
+- REST APIs for scalable backend
+- Features: Book Catalog, Member Management, Borrow/Return System
+- Clean architecture & modular design  
 
 ---
 
 ### 🚗 Car Brand Detection System
-> 🧠 **Computer Vision + Machine Learning Project**
+> 🧠 Computer Vision + Machine Learning  
 
-- Detects and classifies car brands using image data
-- Built using **Python, OpenCV, ML models**
-- Achieved **high accuracy with optimized dataset**
-- Real-world use: smart surveillance & automation
+- Detects car brands using image data  
+- Built with **Python, OpenCV, ML models**  
+- High accuracy with optimized dataset  
+- Real-world use: smart automation & surveillance  
 
 ---
 
 ### 🌾 AgriBot – AI Chatbot
-- NLP-based chatbot for **farmer assistance**
-- Provides crop suggestions based on **season & conditions**
+- NLP-based chatbot for farmer assistance  
+- Provides crop guidance based on seasonal conditions  
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,c" />
 </p>
@@ -78,13 +80,17 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxa
 ### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.icons8.com/color/48/oracle-logo.png" height="40" alt="plsql"/>
 </p>
 
-### 🛠️ Tools
+### ☁️ Cloud & Data Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,eclipse,anaconda" />
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-<img src="https://img.icons8.com/color/48/cvat.png" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://img.icons8.com/color/48/amazon-s3.png" height="40" alt="s3"/>
+<img src="https://img.icons8.com/color/48/data-configuration.png" height="40" alt="glue"/>
+<img src="https://img.icons8.com/color/48/database.png" height="40" alt="athena"/>
+<img src="https://img.icons8.com/color/48/search.png" height="40" alt="crawler"/>
+<img src="https://img.icons8.com/color/48/splunk.png" height="40" alt="splunk"/>
 </p>
 
 ---
@@ -137,5 +143,5 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxa
 ## 💡 Philosophy
 
 <p align="center">
-  <i>"Build systems that scale. Train models that learn. Solve problems that matter."</i>
+  <i>"Build scalable systems. Train intelligent models. Solve meaningful problems."</i>
 </p>
