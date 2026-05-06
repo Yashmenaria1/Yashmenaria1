@@ -83,6 +83,14 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxa
 <img src="https://img.icons8.com/color/48/oracle-logo.png" height="40" alt="plsql"/>
 </p>
 
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,eclipse,anaconda" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img src="https://img.icons8.com/color/48/lucidchart.png" height="40"/>
+<img src="https://img.icons8.com/color/48/cvat.png" height="40"/>
+</p>
+
 ### ☁️ Cloud & Data Tools
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
